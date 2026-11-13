@@ -1,5 +1,3 @@
-# Kay.github.io
-
 # Hi, I'm Kay 👋
 
 ## About Me
